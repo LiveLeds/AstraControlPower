@@ -5,6 +5,317 @@
 	(uuid "a241fc51-c5ff-42f4-af06-81f14cdc52b3")
 	(paper "A4")
 	(lib_symbols
+		(symbol "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CN"
+				(at 0 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "WJ124_5P"
+				(at 0 10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(bold yes)
+					)
+				)
+			)
+			(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+				(at 1.27 -17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C69809"
+				(at 0 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+						(bold yes)
+					)
+				)
+			)
+			(property "MFR" "Ningbo Kangnex Elec"
+				(at 0 -21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" "WJ124-3.81-4P"
+				(at 0 -25.4 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CN_SCREW_TERMINAL_WJ124_4P_15A_1_1"
+				(rectangle
+					(start -1.27 6.35)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 2.8702) (xy 0.3302 2.032)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 5.4102) (xy 0.3302 4.572)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 3.048) (xy 0.508 2.2098)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 5.588) (xy 0.508 4.7498)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 5.08)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 5.08 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -27,7 +338,7 @@
 					)
 				)
 			)
-			(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-3.81-5P"
+			(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-5P"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -369,6 +680,465 @@
 				)
 			)
 		)
+		(symbol "LiveAstra:JP_SolderJumper_2_Bridged"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "JP_SolderJumper_2_Bridged"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "solder jumper SPST"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SolderJumper*Bridged*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "JP_SolderJumper_2_Bridged_0_1"
+				(rectangle
+					(start -0.508 0.508)
+					(end 0.508 -0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.254 1.016)
+					(mid -1.2656 0)
+					(end -0.254 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.016) (xy 0.254 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.254 -1.016)
+					(mid 1.2656 0)
+					(end 0.254 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "JP_SolderJumper_2_Bridged_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.27)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.27)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Switch:SW_SPST_LED"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_SPST_LED"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Single Pole Single Throw (SPST) switch with LED, generic"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch SPST LED OFF-ON"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_SPST_LED_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.413 -2.159) (xy -1.143 -0.889)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.143 -2.159) (xy 0.127 -0.889)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 1.27) (xy -0.635 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.413 -1.524) (xy -2.413 -2.159) (xy -1.778 -2.159)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.143 -1.524) (xy -1.143 -2.159) (xy -0.508 -2.159)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 0) (xy 1.27 1.27) (xy 1.27 -1.27) (xy -0.635 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "SW_SPST_LED_0_1"
+				(circle
+					(center -2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 2.794) (xy 2.032 4.318)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SW_SPST_LED_1_1"
+				(rectangle
+					(start -3.175 5.08)
+					(end 3.175 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -563,62 +1333,260 @@
 		)
 	)
 	(junction
-		(at 121.92 99.06)
+		(at 109.22 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5046287e-0ca3-4e66-9a1b-e190a50ba905")
+		(uuid "ad3c1a22-faa4-4e9d-ad71-d15e7a40f858")
 	)
 	(junction
-		(at 121.92 101.6)
+		(at 109.22 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8e0c73f1-d514-4b9a-ac95-bec9427e4033")
-	)
-	(junction
-		(at 121.92 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eca3d404-e170-497e-bde6-a9d3c472d398")
-	)
-	(junction
-		(at 121.92 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fe9a611a-e0f2-43ad-803f-bb53809ad60a")
+		(uuid "b6310324-9774-47e7-b696-4c2f4861b1f7")
 	)
 	(wire
 		(pts
-			(xy 121.92 96.52) (xy 121.92 99.06)
+			(xy 81.28 50.8) (xy 91.44 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1d490790-1bf4-4ca2-bc51-3cac80085a5a")
+		(uuid "099f771a-32c5-4c23-beed-6f133b061a7f")
 	)
 	(wire
 		(pts
-			(xy 121.92 101.6) (xy 121.92 104.14)
+			(xy 78.74 45.72) (xy 91.44 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "542b61a5-9598-45e5-b31e-4ddd62887866")
+		(uuid "12d5d15d-edc7-427b-a456-8b1f578c277b")
 	)
 	(wire
 		(pts
-			(xy 121.92 104.14) (xy 121.92 106.68)
+			(xy 114.3 170.18) (xy 121.92 170.18)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9c681679-7f18-4096-bb74-0fbaef481f60")
+		(uuid "17d613a2-dfd5-48db-be24-872977c2f56f")
 	)
 	(wire
 		(pts
-			(xy 109.22 93.98) (xy 109.22 91.44)
+			(xy 78.74 99.06) (xy 91.44 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aac3882-1fc8-4527-8ddc-404f64209b82")
+	)
+	(wire
+		(pts
+			(xy 114.3 81.28) (xy 121.92 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b7af694-87e0-416d-ba3c-6a126e964586")
+	)
+	(wire
+		(pts
+			(xy 114.3 152.4) (xy 121.92 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "325b840c-530d-41e6-b4d8-e08aea5da073")
+	)
+	(wire
+		(pts
+			(xy 109.22 86.36) (xy 109.22 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3acb1d36-0c86-4578-8de6-77a54a6a71a7")
+	)
+	(wire
+		(pts
+			(xy 114.3 162.56) (xy 121.92 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cdb3829-3567-4d3c-b9ea-3bb653bb679a")
+	)
+	(wire
+		(pts
+			(xy 109.22 165.1) (xy 121.92 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "493793c6-fe76-4bfd-8686-583f63f1fc93")
+	)
+	(wire
+		(pts
+			(xy 109.22 124.46) (xy 121.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5279708a-f3a7-4a44-9959-82d96cc80f13")
+	)
+	(wire
+		(pts
+			(xy 81.28 43.18) (xy 91.44 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56eea1e5-5f3a-4d0c-8f6b-093de6b9d19f")
+	)
+	(wire
+		(pts
+			(xy 109.22 127) (xy 121.92 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fc18551-a522-418b-90cd-0d9f98e4d294")
+	)
+	(wire
+		(pts
+			(xy 109.22 165.1) (xy 109.22 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "678f9543-6358-4940-95a9-120b5313494f")
+	)
+	(wire
+		(pts
+			(xy 96.52 99.06) (xy 119.38 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "687afea0-d94b-4ae7-8bcf-c718e9e3a488")
+	)
+	(wire
+		(pts
+			(xy 81.28 40.64) (xy 91.44 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6caf4a31-1673-4271-a3b8-cba05a7b6ebb")
+	)
+	(wire
+		(pts
+			(xy 81.28 48.26) (xy 91.44 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "718493b3-888f-458e-a1c8-77b63739c369")
+	)
+	(wire
+		(pts
+			(xy 109.22 127) (xy 109.22 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e639a66-79da-409b-9c98-0c398b289409")
+	)
+	(wire
+		(pts
+			(xy 109.22 167.64) (xy 121.92 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84325f4b-a6a5-4c86-b824-cae309ec90a0")
+	)
+	(wire
+		(pts
+			(xy 119.38 88.9) (xy 121.92 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93288967-b0b5-476f-8bc3-30162de3491d")
+	)
+	(wire
+		(pts
+			(xy 119.38 99.06) (xy 119.38 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a931988b-c248-4d58-a7c5-513072da9480")
+	)
+	(wire
+		(pts
+			(xy 129.54 50.8) (xy 139.7 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b00c210c-aa49-45b5-b283-326245745986")
+	)
+	(wire
+		(pts
+			(xy 114.3 129.54) (xy 121.92 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b27ae1c1-ada0-48c7-9f7b-245476e0e497")
+	)
+	(wire
+		(pts
+			(xy 129.54 43.18) (xy 139.7 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3749ca2-269d-4d80-818b-c98a0ec31992")
+	)
+	(wire
+		(pts
+			(xy 78.74 45.72) (xy 78.74 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b98d6d01-f773-489d-9ebf-6998a360a497")
+	)
+	(wire
+		(pts
+			(xy 127 30.48) (xy 127 27.94)
 		)
 		(stroke
 			(width 0)
@@ -628,27 +1596,488 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 99.06) (xy 121.92 101.6)
+			(xy 114.3 149.86) (xy 121.92 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f0818688-d156-43c0-87b5-8b87778a2100")
+		(uuid "bda4bf48-0a33-4aa4-9bf7-ef506f28b20f")
 	)
 	(wire
 		(pts
-			(xy 121.92 106.68) (xy 121.92 111.76)
+			(xy 129.54 48.26) (xy 139.7 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f5916041-8d23-43fc-8003-e78f17ae30cf")
+		(uuid "c9a2250e-0060-4205-983b-5962f67dc3ea")
+	)
+	(wire
+		(pts
+			(xy 114.3 83.82) (xy 121.92 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccabbe56-22a0-4839-8408-d4ee834942ed")
+	)
+	(wire
+		(pts
+			(xy 129.54 40.64) (xy 139.7 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0b08600-9828-48da-8d14-54b9c3442277")
+	)
+	(wire
+		(pts
+			(xy 109.22 167.64) (xy 109.22 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1400a52-eaa4-4757-b8a8-4a1122fb9b6d")
+	)
+	(wire
+		(pts
+			(xy 114.3 121.92) (xy 121.92 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9fe75d7-fa7e-4583-b562-699c4b04360d")
+	)
+	(wire
+		(pts
+			(xy 109.22 147.32) (xy 109.22 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db59fd2c-a9c6-464b-9d2a-6ea99aeba62e")
+	)
+	(wire
+		(pts
+			(xy 109.22 147.32) (xy 121.92 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e297f7b5-a099-48aa-81f1-84a243953f45")
+	)
+	(wire
+		(pts
+			(xy 114.3 154.94) (xy 121.92 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e32d44d2-e50f-42e4-9487-d4b50035cb6a")
+	)
+	(wire
+		(pts
+			(xy 127 45.72) (xy 127 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4219f64-be8c-4715-97c8-eaaa6bc083a1")
+	)
+	(wire
+		(pts
+			(xy 127 45.72) (xy 139.7 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e54a20d5-23bd-4cfc-8b72-83b4f2823fea")
+	)
+	(wire
+		(pts
+			(xy 109.22 124.46) (xy 109.22 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0caaba2-66ae-421a-b106-f91af010e4e4")
+	)
+	(wire
+		(pts
+			(xy 109.22 86.36) (xy 121.92 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f315ba7a-1c5a-40a6-998f-91c4f7e28264")
+	)
+	(text "A Negative White\nB Positve Blue"
+		(exclude_from_sim no)
+		(at 83.82 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0fdc6909-908b-4a78-9e75-8f0511331e90")
+	)
+	(text "To Control Board"
+		(exclude_from_sim no)
+		(at 177.8 152.4 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "27874f62-783d-4226-a8fa-8f87130afac4")
+	)
+	(text "Extra 5V Out"
+		(exclude_from_sim no)
+		(at 177.8 167.64 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "7e9d8286-0a1a-4e6a-a3e8-f13a255555cc")
+	)
+	(text "VIN to 5V Converter"
+		(exclude_from_sim no)
+		(at 177.8 127 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "ad42ebb0-0a89-4f0f-a370-9cd435142b9d")
+	)
+	(text "Output"
+		(exclude_from_sim no)
+		(at 142.24 33.02 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "b09f9c26-aba0-4d28-8cc2-1d2bf49f7ed3")
+	)
+	(text "To LED Switch"
+		(exclude_from_sim no)
+		(at 177.8 86.36 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "c3e70a3b-1ec0-4192-91fa-614087340b75")
+	)
+	(text "Input"
+		(exclude_from_sim no)
+		(at 88.9 33.02 0)
+		(effects
+			(font
+				(face "ING Me Headline")
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "cd3025e9-f7c5-4586-986c-c06eec26cee4")
+	)
+	(label "5V"
+		(at 114.3 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2781584a-37ed-42c6-a635-8da835b5e25e")
+	)
+	(label "RS485+"
+		(at 114.3 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39fd9ff5-2456-4a8c-ad4f-435b1b430baa")
+	)
+	(label "RS485-"
+		(at 81.28 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44e2c21a-f94f-4dfe-821b-e7538932ab0e")
+	)
+	(label "VIN_SW"
+		(at 114.3 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51d9e186-b749-49a9-81f0-f5fc1115a998")
+	)
+	(label "5V"
+		(at 114.3 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "58f82f08-910f-448c-9877-79f0b16f40a4")
+	)
+	(label "5V"
+		(at 129.54 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "70615d6d-978a-4a21-a0f4-3a0beb69bd78")
+	)
+	(label "VIN"
+		(at 81.28 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a43a642-8bed-4417-a866-988a439a59d0")
+	)
+	(label "5V"
+		(at 114.3 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ebc0d66-632b-4cc5-8e16-f13ecb66998f")
+	)
+	(label "VIN"
+		(at 114.3 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8c581aa1-8013-4c21-a751-f5ef52013d56")
+	)
+	(label "RS485-"
+		(at 129.54 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9138f50c-1f8c-4b6a-b395-6a2ef0b84816")
+	)
+	(label "RS485-"
+		(at 114.3 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "945ec71f-6cc1-4304-a9ca-b200db5cb483")
+	)
+	(label "5V"
+		(at 81.28 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "98315803-0b64-4d04-95e0-eea47c53d669")
+	)
+	(label "RS485+"
+		(at 81.28 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9db10245-b18a-4609-ae32-a3a3983d309d")
+	)
+	(label "RS485+"
+		(at 129.54 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a42d9bfd-623c-4e06-8de2-a89f17bdbe38")
+	)
+	(label "LED"
+		(at 114.3 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a94c9fb3-2128-4363-80d4-e51bf7be9ffe")
+	)
+	(label "VIN"
+		(at 78.74 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa7525d6-4cc8-46ec-98d6-a72d453a7154")
+	)
+	(label "VIN"
+		(at 129.54 48.26 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e03001ba-ee5e-46bc-ae7c-9a9a69ac45db")
+	)
+	(label "VIN_SW"
+		(at 114.3 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e557eb31-0bb2-4257-a6b5-2c070b3dfac1")
+	)
+	(label "5V"
+		(at 114.3 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f97ee387-cbf3-44d9-8225-e8d512472b81")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "09376d08-df6a-415c-9916-1c15501ebaa0")
+		(property "Reference" "#PWR03"
+			(at 109.22 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cdf652b-8c26-4ecf-a573-9a097b50bc99")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 109.22 91.44 0)
+		(at 127 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -657,7 +2086,7 @@
 		(fields_autoplaced yes)
 		(uuid "13d5f13e-5e73-4bf0-85b6-ab0319f5e7ac")
 		(property "Reference" "#FLG01"
-			(at 109.22 89.535 0)
+			(at 127 26.035 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -666,7 +2095,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 109.22 86.36 0)
+			(at 127 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -674,7 +2103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 91.44 0)
+			(at 127 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -683,7 +2112,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.22 91.44 0)
+			(at 127 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -692,7 +2121,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 109.22 91.44 0)
+			(at 127 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -713,17 +2142,83 @@
 		)
 	)
 	(symbol
-		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A")
-		(at 127 101.6 0)
+		(lib_id "power:GND")
+		(at 109.22 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "3d76a6e8-2ba5-4753-a9aa-209914e6ef16")
-		(property "Reference" "CN1"
-			(at 129.54 99.0599 0)
+		(uuid "321efeae-d89a-471b-a077-db44e4e4f272")
+		(property "Reference" "#PWR05"
+			(at 109.22 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c0fad95-1301-4dfe-a80d-ac920d61ab00")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
+		(at 127 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3603c969-8be9-4eaa-bb4c-0487b826b595")
+		(property "Reference" "CN3"
+			(at 129.54 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -732,7 +2227,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 129.54 101.6 0)
+			(at 129.54 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -741,8 +2236,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-3.81-5P"
-			(at 127 111.76 0)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -750,8 +2245,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_WJ124-3-81-5P_C72336.html"
-			(at 127 115.57 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
+			(at 127 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -759,8 +2254,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "1x5P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 5 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 127 130.81 0)
+		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 128.27 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -768,8 +2263,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C72336"
-			(at 127 119.38 0)
+		(property "LCSC Part" "C69809"
+			(at 127 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -777,8 +2272,8 @@
 				(hide yes)
 			)
 		)
-		(property "Extra Values" "5 Pin Screw Terminal 15A 300V"
-			(at 129.54 104.1399 0)
+		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
+			(at 129.54 128.2699 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -788,7 +2283,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 127 127 0)
+			(at 127 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -796,8 +2291,8 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "WJ124-3.81-5P"
-			(at 127 123.19 0)
+		(property "MPN" "WJ124-3.81-4P"
+			(at 127 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -806,24 +2301,138 @@
 			)
 		)
 		(pin "2"
-			(uuid "2d9ae1bb-333a-4f86-bd6a-eb836902fc47")
-		)
-		(pin "3"
-			(uuid "f2799782-dd94-4f21-a7ec-1afc07c3bd18")
-		)
-		(pin "4"
-			(uuid "33bb218b-fda9-41bf-ba00-cd02bbc2b1ad")
-		)
-		(pin "5"
-			(uuid "61f82fb8-255b-4099-88e3-d46ee2858372")
+			(uuid "b10a6ad1-c4c1-4ea6-b933-a6c423672f4d")
 		)
 		(pin "1"
-			(uuid "db510645-1c9c-4938-a437-59437144d7dd")
+			(uuid "003e86e8-6b9a-41f5-9c0c-f9a6a130be6c")
+		)
+		(pin "3"
+			(uuid "bb6e1bf8-6f80-44b0-b4d0-fd8f589a3399")
+		)
+		(pin "4"
+			(uuid "a4c5ac7a-77ea-42f9-a714-6ea4e8e0f524")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "CN3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A")
+		(at 144.78 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a87e9b7-7b0a-4149-9e93-2d9c9a87d804")
+		(property "Reference" "CN6"
+			(at 147.32 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "WJ124_5P"
+			(at 147.32 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-5P"
+			(at 144.78 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_WJ124-3-81-5P_C72336.html"
+			(at 144.78 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x5P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 5 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 144.78 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C72336"
+			(at 144.78 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "5 Pin Screw Terminal 15A 300V"
+			(at 147.32 48.2599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR" "Ningbo Kangnex Elec"
+			(at 144.78 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WJ124-3.81-5P"
+			(at 144.78 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c155eb0-1c16-4c94-a335-9899e3dbdd4a")
+		)
+		(pin "5"
+			(uuid "45037ff4-5ebc-47ac-b257-d8c967318934")
+		)
+		(pin "4"
+			(uuid "ded18ec5-2a7e-4054-b746-182a1520a670")
+		)
+		(pin "3"
+			(uuid "dd7769bf-90ec-4652-987b-b4c610d06aed")
+		)
+		(pin "2"
+			(uuid "dc1c47c8-80cb-4b53-be3c-c7a915373320")
 		)
 		(instances
 			(project ""
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
-					(reference "CN1")
+					(reference "CN6")
 					(unit 1)
 				)
 			)
@@ -831,16 +2440,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 93.98 0)
+		(at 109.22 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "631ca270-f460-456c-b00a-08c482eb6285")
+		(uuid "43e47c15-90d7-4476-9094-af85d2c8560b")
 		(property "Reference" "#PWR02"
-			(at 109.22 100.33 0)
+			(at 109.22 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -849,7 +2458,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 99.06 0)
+			(at 109.22 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -857,7 +2466,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 93.98 0)
+			(at 109.22 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -866,7 +2475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 93.98 0)
+			(at 109.22 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -875,7 +2484,217 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 93.98 0)
+			(at 109.22 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a308ff17-1d89-4ba6-bcdc-c1aa3c4f58e9")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44d94c55-e834-4f10-b50f-97abe6745ac9")
+		(property "Reference" "#PWR07"
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e66a023-8e61-4532-99f9-96100ee932ef")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:JP_SolderJumper_2_Bridged")
+		(at 93.98 99.06 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44efe89b-c985-4a76-b7b9-3bd1b090eaa2")
+		(property "Reference" "JP1"
+			(at 93.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "JP_SolderJumper_2_Bridged"
+			(at 93.98 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
+			(at 93.98 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
+			(at 93.98 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "2 Pin open bridged jumper"
+			(at 93.98 95.25 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77df8755-b75a-459a-a2d0-b924f1709ba2")
+		)
+		(pin "2"
+			(uuid "ee752609-f858-4f0b-b940-4d792f016146")
+		)
+		(instances
+			(project ""
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "631ca270-f460-456c-b00a-08c482eb6285")
+		(property "Reference" "#PWR06"
+			(at 127 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -889,7 +2708,7 @@
 		(instances
 			(project "AstraControlPower"
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
-					(reference "#PWR02")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -897,16 +2716,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 121.92 111.76 0)
+		(at 78.74 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ad9c3a0d-f0b5-4a63-bf82-53666722df45")
+		(uuid "6a9dad68-1463-4fe3-95d0-93be3aac2eb5")
 		(property "Reference" "#PWR01"
-			(at 121.92 118.11 0)
+			(at 78.74 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -915,7 +2734,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 121.92 116.84 0)
+			(at 78.74 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -923,7 +2742,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 111.76 0)
+			(at 78.74 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -932,7 +2751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 111.76 0)
+			(at 78.74 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -941,7 +2760,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 121.92 111.76 0)
+			(at 78.74 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -950,12 +2769,611 @@
 			)
 		)
 		(pin "1"
-			(uuid "e648749f-f778-45d9-8deb-8bb61ab50f1e")
+			(uuid "ffd24d09-0f07-4d8a-a05e-cf2720375505")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A")
+		(at 96.52 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70a742cf-3ebc-4dd8-9476-fdb49987c4f8")
+		(property "Reference" "CN1"
+			(at 99.06 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "WJ124_5P"
+			(at 99.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-5P"
+			(at 96.52 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_WJ124-3-81-5P_C72336.html"
+			(at 96.52 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x5P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 5 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 96.52 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C72336"
+			(at 96.52 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "5 Pin Screw Terminal 15A 300V"
+			(at 99.06 48.2599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR" "Ningbo Kangnex Elec"
+			(at 96.52 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WJ124-3.81-5P"
+			(at 96.52 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "20b9e0f3-bde2-48d5-931f-9aba1d48d871")
+		)
+		(pin "1"
+			(uuid "12d3fedb-4235-4b12-bed0-915ca8f1f64b")
+		)
+		(pin "3"
+			(uuid "d93e82c0-68dd-488c-9d6b-6d076d6ed3b4")
+		)
+		(pin "4"
+			(uuid "0e08e9b6-0934-424c-99cd-9c223f5f7d3d")
+		)
+		(pin "2"
+			(uuid "0c4d2fcf-0c38-4776-8ab5-bbd2f838a4ac")
 		)
 		(instances
 			(project ""
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
-					(reference "#PWR01")
+					(reference "CN1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
+		(at 127 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90089557-69df-41dd-b8e8-1b1cbc6b34e2")
+		(property "Reference" "CN2"
+			(at 129.54 82.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "WJ124_5P"
+			(at 129.54 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
+			(at 127 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
+			(at 127 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 128.27 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C69809"
+			(at 127 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
+			(at 129.54 87.6299 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR" "Ningbo Kangnex Elec"
+			(at 127 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WJ124-3.81-4P"
+			(at 127 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ed272e60-21b8-437a-b9f2-8be2fde119ba")
+		)
+		(pin "1"
+			(uuid "6f8a8a04-82a3-4ccb-9fa3-0332b766cf2d")
+		)
+		(pin "3"
+			(uuid "c4ffbd60-034e-481d-aa12-d33c1648efd8")
+		)
+		(pin "4"
+			(uuid "a2997fb9-dfa2-4b73-a8ca-debf83efa12d")
+		)
+		(instances
+			(project ""
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "CN2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
+		(at 127 152.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9353bc65-039d-4f35-8cfe-cf9036ee36f4")
+		(property "Reference" "CN4"
+			(at 129.54 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "WJ124_5P"
+			(at 129.54 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
+			(at 127 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
+			(at 127 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 128.27 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C69809"
+			(at 127 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
+			(at 129.54 153.6699 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR" "Ningbo Kangnex Elec"
+			(at 127 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WJ124-3.81-4P"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ef69784d-1874-48d9-bd20-345821b40768")
+		)
+		(pin "1"
+			(uuid "770cbf81-61db-40f6-9905-ee336c5f6936")
+		)
+		(pin "3"
+			(uuid "9f4bcacf-de12-48df-99d7-f7412e5a718b")
+		)
+		(pin "4"
+			(uuid "247487ae-393e-49cc-9ac8-39a28fbb2931")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "CN4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
+		(at 127 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0904896-a8b3-41ba-8b16-8772be847180")
+		(property "Reference" "CN5"
+			(at 129.54 163.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "WJ124_5P"
+			(at 129.54 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
+			(at 127 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
+			(at 127 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
+			(at 128.27 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C69809"
+			(at 127 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
+			(at 129.54 168.9099 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(property "MFR" "Ningbo Kangnex Elec"
+			(at 127 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "WJ124-3.81-4P"
+			(at 127 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "879b7f62-95c1-4ae6-92a3-f3bde18dfa43")
+		)
+		(pin "1"
+			(uuid "6cb7733d-b27e-4e8e-ab15-8afdc4d5dc6e")
+		)
+		(pin "3"
+			(uuid "9a3beeb2-6187-40fb-808d-9c48734ae1ef")
+		)
+		(pin "4"
+			(uuid "904e26e4-453d-4e29-b954-3415123226ce")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "CN5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aa1c3a3c-6995-4bfc-8ae2-ed6983e28ccb")
+		(property "Reference" "#PWR04"
+			(at 109.22 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87eb6b5c-3289-484d-a240-27d735e7a490")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST_LED")
+		(at 137.16 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "ac267f2b-84b8-434b-8ee4-5c9eaa78e717")
+		(property "Reference" "SW1"
+			(at 137.16 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST_LED"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Single Pole Single Throw (SPST) switch with LED, generic"
+			(at 137.16 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "a2093e57-59fb-4cb4-9b77-27b144804d0a")
+		)
+		(pin "3"
+			(uuid "b4741242-8c77-4872-8009-2714ef4e3e91")
+		)
+		(pin "1"
+			(uuid "af1b3d67-c76e-4cb4-b036-df2bed86faa8")
+		)
+		(pin "2"
+			(uuid "1d95e88d-b5ba-4024-8999-2cb3d837e999")
+		)
+		(instances
+			(project ""
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "SW1")
 					(unit 1)
 				)
 			)

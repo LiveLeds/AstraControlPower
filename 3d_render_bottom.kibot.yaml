@@ -36,7 +36,7 @@ outputs:
         download: false
         download_lcsc: false
       render_options:
-        auto_crop: true
+        auto_crop: false
         transparent_background: true
         samples: 2
         resolution_x: 2048
