@@ -1,0 +1,3 @@
+[submodule "AstraControlPowerPCB/LiveAstraLibrary"]
+	path = AstraControlPowerPCB/LiveAstraLibrary
+	url = git@github.com:LiveLeds/LiveAstraLibrary.git
