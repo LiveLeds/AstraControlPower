@@ -210,28 +210,6 @@ outputs:
         hide_pcb_info: true
         hide_stats_info: true
         quote_all: true
-  - name: 'Kiri Dark'
-    comment: 'Generates a dark version of an interactive web page to browse the schematic and/or PCB differences between git commits.'
-    type: 'kiri'
-    dir: 'KiRiDark'
-    options:
-      color_theme: "Arcana"
-      background_color: '#000000'
-      keep_generated: true
-      max_commits: 3
-      revision: 'HEAD'
-      zones: 'global'
-    layers: all
-  - name: 'Kiri Light'
-    comment: 'Generates a light version of an interactive web page to browse the schematic and/or PCB differences between git commits.'
-    type: 'kiri'
-    dir: 'KiRiLight'
-    options:
-      keep_generated: true
-      max_commits: 3
-      revision: 'HEAD'
-      zones: 'global'
-    layers: all
   - name: "Markdown components table"
     comment: "All LCSC components in HTML"
     type: bom

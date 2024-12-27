@@ -261,8 +261,6 @@ jobs:
           mkdir html
           mkdir images
           mkdir documents
-          mkdir KiRiDark
-          mkdir KiRiLight
           mv output/drc_validation.md ./
           mv output/erc_validation.md ./
           mv output/AstraControlPower-drc.html ./
@@ -279,8 +277,6 @@ jobs:
           mv output/Report/Schematic/AstraControlPower-schematic-mono.pdf documents/AstraControlPower-schematic-mono.pdf
           mv output/PCBPrint/PCBPrintDark/AstraControlPower-united-Dark.pdf documents/AstraControlPower-pcb-dark.pdf
           mv output/PCBPrint/PCBPrintLight/AstraControlPower-united-Light.pdf documents/AstraControlPower-pcb-light.pdf
-          mv output/Report/KiRiDark ./ || true
-          mv output/Report/KiRiLight ./ || true
           mv output/Report/JLCPCB/AstraControlPower-JLCPCB.zip export/AstraControlPower-JLCPCB.zip
           mv output/Report/JLCPCB/BOM/AstraControlPower_bom_jlc.csv export/AstraControlPower_bom_jlc.csv
           mv output/Report/JLCPCB/PickAndPlace/AstraControlPower_cpl_jlc.csv export/AstraControlPower_cpl_jlc.csv
@@ -298,13 +294,6 @@ jobs:
           source: ./
           destination: ./_site
           future: true
-      - name: Move KiRi files directly to site
-        run: |
-          ls -l
-          sudo chown -R $USER:$USER ./_site/
-          cp -r ./KiRiDark ./_site/ || true
-          cp -r ./KiRiLight ./_site/ || true
-          find .
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

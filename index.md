@@ -32,9 +32,6 @@ Direct copper heat-sink PCB for LED diode [AstraBeamLED](https://liveleds.github
     - [Gerber viewer on tracespace.io](#gerber-viewer-on-tracespaceio)
   - [Interactive BOM](#interactive-bom)
   - [BOM](#bom)
-  - [KiCad Revision Inspector (KiRI)](#kicad-revision-inspector-kiri)
-    - [Dark](#dark-2)
-    - [Light](#light-2)
   - [Downloads](#downloads)
     - [JLCPCB](#jlcpcb)
     - [Eurocircuits](#eurocircuits)
@@ -98,20 +95,6 @@ Not all BOM columns are available here, for datasheet links see BOM below.
 All components with Values, References, Sheetpath and Links to the datasheet.
 
 [BOM HTML]({{ "/export/AstraControlPower-bom.html" | absolute_url | append: cacheBust }})
-
-### KiCad Revision Inspector (KiRI)
-
-KiCad Revision Inspector (KiRI) is a tool for comparing different versions of KiCad projects. It exports project revisions to SVG format for visual comparison using an onion skin view. This helps identify changes and errors in PCB designs. KiRI also includes a command line interface for generating viewable artifacts in any web browser.
-
-View the PCB / Schematic in an interactive way, pan and zoom to see the details.
-
-#### Dark
-
-- [KiRi Dark]({{ "/KiRiDark/index.html" | absolute_url | append: cacheBust }})
-
-#### Light
-
-- [KiRi Light]({{ "/KiRiLight/index.html" | absolute_url | append: cacheBust }})
 
 ### Downloads
 
