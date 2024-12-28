@@ -1333,20 +1333,20 @@
 		)
 	)
 	(junction
-		(at 109.22 167.64)
+		(at 185.42 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad3c1a22-faa4-4e9d-ad71-d15e7a40f858")
 	)
 	(junction
-		(at 109.22 127)
+		(at 83.82 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6310324-9774-47e7-b696-4c2f4861b1f7")
 	)
 	(wire
 		(pts
-			(xy 81.28 50.8) (xy 91.44 50.8)
+			(xy 111.76 55.88) (xy 121.92 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1356,7 +1356,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 45.72) (xy 91.44 45.72)
+			(xy 109.22 50.8) (xy 121.92 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1366,7 +1366,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 170.18) (xy 121.92 170.18)
+			(xy 190.5 129.54) (xy 198.12 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1376,7 +1376,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 99.06) (xy 91.44 99.06)
+			(xy 104.14 99.06) (xy 116.84 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1386,7 +1386,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 81.28) (xy 121.92 81.28)
+			(xy 139.7 81.28) (xy 147.32 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1396,7 +1396,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 152.4) (xy 121.92 152.4)
+			(xy 139.7 127) (xy 147.32 127)
 		)
 		(stroke
 			(width 0)
@@ -1406,7 +1406,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 86.36) (xy 109.22 88.9)
+			(xy 134.62 86.36) (xy 134.62 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1416,7 +1416,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 162.56) (xy 121.92 162.56)
+			(xy 190.5 121.92) (xy 198.12 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1426,7 +1426,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 165.1) (xy 121.92 165.1)
+			(xy 185.42 124.46) (xy 198.12 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1436,7 +1436,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 124.46) (xy 121.92 124.46)
+			(xy 83.82 124.46) (xy 96.52 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1446,7 +1446,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 43.18) (xy 91.44 43.18)
+			(xy 111.76 48.26) (xy 121.92 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1456,7 +1456,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 127) (xy 121.92 127)
+			(xy 83.82 127) (xy 96.52 127)
 		)
 		(stroke
 			(width 0)
@@ -1466,7 +1466,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 165.1) (xy 109.22 167.64)
+			(xy 185.42 124.46) (xy 185.42 127)
 		)
 		(stroke
 			(width 0)
@@ -1476,7 +1476,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 99.06) (xy 119.38 99.06)
+			(xy 121.92 99.06) (xy 144.78 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1486,7 +1486,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 40.64) (xy 91.44 40.64)
+			(xy 111.76 45.72) (xy 121.92 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1496,7 +1496,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 48.26) (xy 91.44 48.26)
+			(xy 111.76 53.34) (xy 121.92 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1506,7 +1506,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 127) (xy 109.22 132.08)
+			(xy 83.82 127) (xy 83.82 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1516,7 +1516,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 167.64) (xy 121.92 167.64)
+			(xy 185.42 127) (xy 198.12 127)
 		)
 		(stroke
 			(width 0)
@@ -1526,7 +1526,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 88.9) (xy 121.92 88.9)
+			(xy 144.78 88.9) (xy 147.32 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1536,7 +1536,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 99.06) (xy 119.38 88.9)
+			(xy 144.78 99.06) (xy 144.78 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1546,7 +1546,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 50.8) (xy 139.7 50.8)
+			(xy 162.56 55.88) (xy 172.72 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1556,7 +1556,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 129.54) (xy 121.92 129.54)
+			(xy 88.9 129.54) (xy 96.52 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1566,7 +1566,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 43.18) (xy 139.7 43.18)
+			(xy 162.56 48.26) (xy 172.72 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1576,7 +1576,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 45.72) (xy 78.74 48.26)
+			(xy 109.22 50.8) (xy 109.22 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1586,7 +1586,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 30.48) (xy 127 27.94)
+			(xy 152.4 152.4) (xy 152.4 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1596,7 +1596,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 149.86) (xy 121.92 149.86)
+			(xy 139.7 124.46) (xy 147.32 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1606,7 +1606,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 48.26) (xy 139.7 48.26)
+			(xy 162.56 53.34) (xy 172.72 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1616,7 +1616,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 83.82) (xy 121.92 83.82)
+			(xy 139.7 83.82) (xy 147.32 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1626,7 +1626,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 40.64) (xy 139.7 40.64)
+			(xy 162.56 45.72) (xy 172.72 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1636,7 +1636,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 167.64) (xy 109.22 170.18)
+			(xy 185.42 127) (xy 185.42 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1646,7 +1646,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 121.92) (xy 121.92 121.92)
+			(xy 88.9 121.92) (xy 96.52 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1656,7 +1656,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 147.32) (xy 109.22 149.86)
+			(xy 134.62 121.92) (xy 134.62 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1666,7 +1666,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 147.32) (xy 121.92 147.32)
+			(xy 134.62 121.92) (xy 147.32 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1676,7 +1676,7 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 154.94) (xy 121.92 154.94)
+			(xy 139.7 129.54) (xy 147.32 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1686,7 +1686,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 45.72) (xy 127 48.26)
+			(xy 160.02 50.8) (xy 160.02 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1696,7 +1696,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 45.72) (xy 139.7 45.72)
+			(xy 160.02 50.8) (xy 172.72 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1706,7 +1706,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 124.46) (xy 109.22 127)
+			(xy 83.82 124.46) (xy 83.82 127)
 		)
 		(stroke
 			(width 0)
@@ -1716,7 +1716,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 86.36) (xy 121.92 86.36)
+			(xy 134.62 86.36) (xy 147.32 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1726,7 +1726,7 @@
 	)
 	(text "A Negative White\nB Positve Blue"
 		(exclude_from_sim no)
-		(at 83.82 60.96 0)
+		(at 114.3 66.04 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1736,7 +1736,7 @@
 	)
 	(text "To Control Board"
 		(exclude_from_sim no)
-		(at 177.8 152.4 0)
+		(at 152.4 114.3 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1747,7 +1747,7 @@
 	)
 	(text "Extra 5V Out"
 		(exclude_from_sim no)
-		(at 177.8 167.64 0)
+		(at 203.2 114.3 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1758,7 +1758,7 @@
 	)
 	(text "VIN to 5V Converter"
 		(exclude_from_sim no)
-		(at 177.8 127 0)
+		(at 101.6 114.3 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1769,7 +1769,7 @@
 	)
 	(text "Output"
 		(exclude_from_sim no)
-		(at 142.24 33.02 0)
+		(at 175.26 38.1 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1780,7 +1780,7 @@
 	)
 	(text "To LED Switch"
 		(exclude_from_sim no)
-		(at 177.8 86.36 0)
+		(at 152.4 73.66 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1791,7 +1791,7 @@
 	)
 	(text "Input"
 		(exclude_from_sim no)
-		(at 88.9 33.02 0)
+		(at 119.38 38.1 0)
 		(effects
 			(font
 				(face "ING Me Headline")
@@ -1801,7 +1801,7 @@
 		(uuid "cd3025e9-f7c5-4586-986c-c06eec26cee4")
 	)
 	(label "5V"
-		(at 114.3 162.56 0)
+		(at 190.5 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1812,7 +1812,7 @@
 		(uuid "2781584a-37ed-42c6-a635-8da835b5e25e")
 	)
 	(label "RS485+"
-		(at 114.3 149.86 0)
+		(at 139.7 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1823,7 +1823,7 @@
 		(uuid "39fd9ff5-2456-4a8c-ad4f-435b1b430baa")
 	)
 	(label "RS485-"
-		(at 81.28 50.8 0)
+		(at 111.76 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1834,7 +1834,7 @@
 		(uuid "44e2c21a-f94f-4dfe-821b-e7538932ab0e")
 	)
 	(label "VIN_SW"
-		(at 114.3 83.82 0)
+		(at 139.7 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1845,7 +1845,7 @@
 		(uuid "51d9e186-b749-49a9-81f0-f5fc1115a998")
 	)
 	(label "5V"
-		(at 114.3 121.92 0)
+		(at 88.9 121.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1856,7 +1856,7 @@
 		(uuid "58f82f08-910f-448c-9877-79f0b16f40a4")
 	)
 	(label "5V"
-		(at 129.54 50.8 0)
+		(at 162.56 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1867,7 +1867,7 @@
 		(uuid "70615d6d-978a-4a21-a0f4-3a0beb69bd78")
 	)
 	(label "VIN"
-		(at 81.28 43.18 0)
+		(at 111.76 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1878,7 +1878,7 @@
 		(uuid "7a43a642-8bed-4417-a866-988a439a59d0")
 	)
 	(label "5V"
-		(at 114.3 154.94 0)
+		(at 139.7 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1889,7 +1889,7 @@
 		(uuid "7ebc0d66-632b-4cc5-8e16-f13ecb66998f")
 	)
 	(label "VIN"
-		(at 114.3 81.28 0)
+		(at 139.7 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1900,7 +1900,7 @@
 		(uuid "8c581aa1-8013-4c21-a751-f5ef52013d56")
 	)
 	(label "RS485-"
-		(at 129.54 40.64 0)
+		(at 162.56 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1911,7 +1911,7 @@
 		(uuid "9138f50c-1f8c-4b6a-b395-6a2ef0b84816")
 	)
 	(label "RS485-"
-		(at 114.3 152.4 0)
+		(at 139.7 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1922,7 +1922,7 @@
 		(uuid "945ec71f-6cc1-4304-a9ca-b200db5cb483")
 	)
 	(label "5V"
-		(at 81.28 40.64 0)
+		(at 111.76 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1933,7 +1933,7 @@
 		(uuid "98315803-0b64-4d04-95e0-eea47c53d669")
 	)
 	(label "RS485+"
-		(at 81.28 48.26 0)
+		(at 111.76 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1944,7 +1944,7 @@
 		(uuid "9db10245-b18a-4609-ae32-a3a3983d309d")
 	)
 	(label "RS485+"
-		(at 129.54 43.18 0)
+		(at 162.56 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1955,7 +1955,7 @@
 		(uuid "a42d9bfd-623c-4e06-8de2-a89f17bdbe38")
 	)
 	(label "LED"
-		(at 114.3 99.06 0)
+		(at 139.7 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1966,7 +1966,7 @@
 		(uuid "a94c9fb3-2128-4363-80d4-e51bf7be9ffe")
 	)
 	(label "VIN"
-		(at 78.74 99.06 0)
+		(at 104.14 99.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1977,7 +1977,7 @@
 		(uuid "aa7525d6-4cc8-46ec-98d6-a72d453a7154")
 	)
 	(label "VIN"
-		(at 129.54 48.26 0)
+		(at 162.56 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1988,7 +1988,7 @@
 		(uuid "e03001ba-ee5e-46bc-ae7c-9a9a69ac45db")
 	)
 	(label "VIN_SW"
-		(at 114.3 129.54 0)
+		(at 88.9 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1999,7 +1999,7 @@
 		(uuid "e557eb31-0bb2-4257-a6b5-2c070b3dfac1")
 	)
 	(label "5V"
-		(at 114.3 170.18 0)
+		(at 190.5 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2011,7 +2011,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 132.08 0)
+		(at 83.82 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2020,7 +2020,7 @@
 		(fields_autoplaced yes)
 		(uuid "09376d08-df6a-415c-9916-1c15501ebaa0")
 		(property "Reference" "#PWR03"
-			(at 109.22 138.43 0)
+			(at 83.82 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2029,7 +2029,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 137.16 0)
+			(at 83.82 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2037,7 +2037,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 132.08 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2046,7 +2046,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 132.08 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2055,7 +2055,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 132.08 0)
+			(at 83.82 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2077,7 +2077,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 127 27.94 0)
+		(at 152.4 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2086,7 +2086,7 @@
 		(fields_autoplaced yes)
 		(uuid "13d5f13e-5e73-4bf0-85b6-ab0319f5e7ac")
 		(property "Reference" "#FLG01"
-			(at 127 26.035 0)
+			(at 152.4 147.955 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2095,7 +2095,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 127 22.86 0)
+			(at 152.4 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2103,7 +2103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 27.94 0)
+			(at 152.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2112,7 +2112,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 127 27.94 0)
+			(at 152.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2121,7 +2121,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 127 27.94 0)
+			(at 152.4 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2143,7 +2143,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 170.18 0)
+		(at 185.42 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2152,7 +2152,7 @@
 		(fields_autoplaced yes)
 		(uuid "321efeae-d89a-471b-a077-db44e4e4f272")
 		(property "Reference" "#PWR05"
-			(at 109.22 176.53 0)
+			(at 185.42 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2161,7 +2161,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 175.26 0)
+			(at 185.42 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2169,7 +2169,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 170.18 0)
+			(at 185.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2178,7 +2178,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 170.18 0)
+			(at 185.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2187,7 +2187,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 170.18 0)
+			(at 185.42 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2209,7 +2209,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
-		(at 127 127 0)
+		(at 101.6 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2218,7 +2218,7 @@
 		(fields_autoplaced yes)
 		(uuid "3603c969-8be9-4eaa-bb4c-0487b826b595")
 		(property "Reference" "CN3"
-			(at 129.54 123.1899 0)
+			(at 104.14 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2227,7 +2227,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 129.54 125.73 0)
+			(at 104.14 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2237,7 +2237,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
-			(at 127 133.35 0)
+			(at 101.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2246,7 +2246,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
-			(at 127 137.16 0)
+			(at 101.6 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2255,7 +2255,7 @@
 			)
 		)
 		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 128.27 144.78 0)
+			(at 102.87 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2264,7 +2264,7 @@
 			)
 		)
 		(property "LCSC Part" "C69809"
-			(at 127 140.97 0)
+			(at 101.6 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2273,7 +2273,7 @@
 			)
 		)
 		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
-			(at 129.54 128.2699 0)
+			(at 104.14 128.2699 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -2283,7 +2283,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 127 148.59 0)
+			(at 101.6 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2292,7 +2292,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-4P"
-			(at 127 152.4 0)
+			(at 101.6 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2323,7 +2323,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A")
-		(at 144.78 45.72 0)
+		(at 177.8 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2332,7 +2332,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a87e9b7-7b0a-4149-9e93-2d9c9a87d804")
 		(property "Reference" "CN6"
-			(at 147.32 43.1799 0)
+			(at 180.34 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2341,7 +2341,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 147.32 45.72 0)
+			(at 180.34 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2351,7 +2351,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-5P"
-			(at 144.78 55.88 0)
+			(at 177.8 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2360,7 +2360,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_WJ124-3-81-5P_C72336.html"
-			(at 144.78 59.69 0)
+			(at 177.8 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2369,7 +2369,7 @@
 			)
 		)
 		(property "Description" "1x5P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 5 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 144.78 74.93 0)
+			(at 177.8 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2378,7 +2378,7 @@
 			)
 		)
 		(property "LCSC Part" "C72336"
-			(at 144.78 63.5 0)
+			(at 177.8 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2387,7 +2387,7 @@
 			)
 		)
 		(property "Extra Values" "5 Pin Screw Terminal 15A 300V"
-			(at 147.32 48.2599 0)
+			(at 180.34 53.3399 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -2397,7 +2397,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 144.78 71.12 0)
+			(at 177.8 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2406,7 +2406,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-5P"
-			(at 144.78 67.31 0)
+			(at 177.8 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2440,7 +2440,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 88.9 0)
+		(at 134.62 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2449,7 +2449,7 @@
 		(fields_autoplaced yes)
 		(uuid "43e47c15-90d7-4476-9094-af85d2c8560b")
 		(property "Reference" "#PWR02"
-			(at 109.22 95.25 0)
+			(at 134.62 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2458,7 +2458,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 93.98 0)
+			(at 134.62 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2466,7 +2466,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 88.9 0)
+			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2475,7 +2475,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 88.9 0)
+			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2484,7 +2484,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 88.9 0)
+			(at 134.62 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2506,7 +2506,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 48.26 0)
+		(at 160.02 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2515,7 +2515,7 @@
 		(fields_autoplaced yes)
 		(uuid "44d94c55-e834-4f10-b50f-97abe6745ac9")
 		(property "Reference" "#PWR07"
-			(at 127 54.61 0)
+			(at 160.02 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2524,7 +2524,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 53.34 0)
+			(at 160.02 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,7 +2532,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 48.26 0)
+			(at 160.02 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2541,7 +2541,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 48.26 0)
+			(at 160.02 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2550,7 +2550,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 48.26 0)
+			(at 160.02 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2572,7 +2572,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:JP_SolderJumper_2_Bridged")
-		(at 93.98 99.06 0)
+		(at 119.38 99.06 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -2581,7 +2581,7 @@
 		(fields_autoplaced yes)
 		(uuid "44efe89b-c985-4a76-b7b9-3bd1b090eaa2")
 		(property "Reference" "JP1"
-			(at 93.98 92.71 0)
+			(at 119.38 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2589,7 +2589,7 @@
 			)
 		)
 		(property "Value" "JP_SolderJumper_2_Bridged"
-			(at 93.98 101.6 0)
+			(at 119.38 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2598,7 +2598,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
-			(at 93.98 99.06 0)
+			(at 119.38 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2607,7 +2607,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 106.68 0)
+			(at 119.38 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2616,7 +2616,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, closed/bridged"
-			(at 93.98 104.14 0)
+			(at 119.38 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2625,7 +2625,7 @@
 			)
 		)
 		(property "Extra Values" "2 Pin open bridged jumper"
-			(at 93.98 95.25 0)
+			(at 119.38 95.25 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -2650,7 +2650,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 127 30.48 0)
+		(at 152.4 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2659,7 +2659,7 @@
 		(fields_autoplaced yes)
 		(uuid "631ca270-f460-456c-b00a-08c482eb6285")
 		(property "Reference" "#PWR06"
-			(at 127 36.83 0)
+			(at 152.4 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2668,7 +2668,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 35.56 0)
+			(at 152.4 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2676,7 +2676,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 30.48 0)
+			(at 152.4 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2685,7 +2685,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 30.48 0)
+			(at 152.4 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2694,7 +2694,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 127 30.48 0)
+			(at 152.4 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2716,7 +2716,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 78.74 48.26 0)
+		(at 109.22 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2725,7 +2725,7 @@
 		(fields_autoplaced yes)
 		(uuid "6a9dad68-1463-4fe3-95d0-93be3aac2eb5")
 		(property "Reference" "#PWR01"
-			(at 78.74 54.61 0)
+			(at 109.22 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2734,7 +2734,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 78.74 53.34 0)
+			(at 109.22 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2742,7 +2742,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 48.26 0)
+			(at 109.22 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2751,7 +2751,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 48.26 0)
+			(at 109.22 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2760,7 +2760,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 78.74 48.26 0)
+			(at 109.22 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2782,7 +2782,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P_15A")
-		(at 96.52 45.72 0)
+		(at 127 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2791,7 +2791,7 @@
 		(fields_autoplaced yes)
 		(uuid "70a742cf-3ebc-4dd8-9476-fdb49987c4f8")
 		(property "Reference" "CN1"
-			(at 99.06 43.1799 0)
+			(at 129.54 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2800,7 +2800,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 99.06 45.72 0)
+			(at 129.54 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2810,7 +2810,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_5P-P3.81_KF124-5P"
-			(at 96.52 55.88 0)
+			(at 127 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2819,7 +2819,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_WJ124-3-81-5P_C72336.html"
-			(at 96.52 59.69 0)
+			(at 127 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2828,7 +2828,7 @@
 			)
 		)
 		(property "Description" "1x5P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 5 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 96.52 74.93 0)
+			(at 127 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2837,7 @@
 			)
 		)
 		(property "LCSC Part" "C72336"
-			(at 96.52 63.5 0)
+			(at 127 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2846,7 +2846,7 @@
 			)
 		)
 		(property "Extra Values" "5 Pin Screw Terminal 15A 300V"
-			(at 99.06 48.2599 0)
+			(at 129.54 53.3399 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -2856,7 +2856,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 96.52 71.12 0)
+			(at 127 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,7 +2865,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-5P"
-			(at 96.52 67.31 0)
+			(at 127 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2899,7 +2899,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
-		(at 127 86.36 0)
+		(at 152.4 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2908,7 +2908,7 @@
 		(fields_autoplaced yes)
 		(uuid "90089557-69df-41dd-b8e8-1b1cbc6b34e2")
 		(property "Reference" "CN2"
-			(at 129.54 82.5499 0)
+			(at 154.94 82.5499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2917,7 +2917,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 129.54 85.09 0)
+			(at 154.94 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2927,7 +2927,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
-			(at 127 92.71 0)
+			(at 152.4 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2936,7 +2936,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
-			(at 127 96.52 0)
+			(at 152.4 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2945,7 +2945,7 @@
 			)
 		)
 		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 128.27 104.14 0)
+			(at 153.67 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +2954,7 @@
 			)
 		)
 		(property "LCSC Part" "C69809"
-			(at 127 100.33 0)
+			(at 152.4 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2963,7 +2963,7 @@
 			)
 		)
 		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
-			(at 129.54 87.6299 0)
+			(at 154.94 87.6299 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -2973,7 +2973,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 127 107.95 0)
+			(at 152.4 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2982,7 +2982,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-4P"
-			(at 127 111.76 0)
+			(at 152.4 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3013,7 +3013,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
-		(at 127 152.4 0)
+		(at 152.4 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3022,7 +3022,7 @@
 		(fields_autoplaced yes)
 		(uuid "9353bc65-039d-4f35-8cfe-cf9036ee36f4")
 		(property "Reference" "CN4"
-			(at 129.54 148.5899 0)
+			(at 154.94 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3031,7 +3031,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 129.54 151.13 0)
+			(at 154.94 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3041,7 +3041,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
-			(at 127 158.75 0)
+			(at 152.4 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3050,7 +3050,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
-			(at 127 162.56 0)
+			(at 152.4 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3059,7 +3059,7 @@
 			)
 		)
 		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 128.27 170.18 0)
+			(at 153.67 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3068,7 +3068,7 @@
 			)
 		)
 		(property "LCSC Part" "C69809"
-			(at 127 166.37 0)
+			(at 152.4 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3077,7 +3077,7 @@
 			)
 		)
 		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
-			(at 129.54 153.6699 0)
+			(at 154.94 128.2699 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -3087,7 +3087,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 127 173.99 0)
+			(at 152.4 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3096,7 +3096,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-4P"
-			(at 127 177.8 0)
+			(at 152.4 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3127,7 +3127,7 @@
 	)
 	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
-		(at 127 167.64 0)
+		(at 203.2 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3136,7 +3136,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0904896-a8b3-41ba-8b16-8772be847180")
 		(property "Reference" "CN5"
-			(at 129.54 163.8299 0)
+			(at 205.74 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3145,7 +3145,7 @@
 			)
 		)
 		(property "Value" "WJ124_5P"
-			(at 129.54 166.37 0)
+			(at 205.74 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3155,7 @@
 			)
 		)
 		(property "Footprint" "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P-P3.81_KF124-4P"
-			(at 127 173.99 0)
+			(at 203.2 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3164,7 +3164,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Terminal-Blocks_KF124-3-81-4P-pitch3-81mm_C69809.html"
-			(at 127 177.8 0)
+			(at 203.2 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3173,7 +3173,7 @@
 			)
 		)
 		(property "Description" "1x4P -40℃~+105℃ 15A 300V Green 14~30 Direct Insert 3.81mm 1.5 1 4 Plugin,P=3.81mm Screw Terminal Blocks ROHS"
-			(at 128.27 185.42 0)
+			(at 204.47 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3182,7 +3182,7 @@
 			)
 		)
 		(property "LCSC Part" "C69809"
-			(at 127 181.61 0)
+			(at 203.2 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3191,7 +3191,7 @@
 			)
 		)
 		(property "Extra Values" "4 Pin Screw Terminal 15A 300V"
-			(at 129.54 168.9099 0)
+			(at 205.74 128.2699 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -3201,7 +3201,7 @@
 			)
 		)
 		(property "MFR" "Ningbo Kangnex Elec"
-			(at 127 189.23 0)
+			(at 203.2 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3210,7 +3210,7 @@
 			)
 		)
 		(property "MPN" "WJ124-3.81-4P"
-			(at 127 193.04 0)
+			(at 203.2 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3241,7 +3241,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 109.22 149.86 0)
+		(at 134.62 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3250,7 +3250,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa1c3a3c-6995-4bfc-8ae2-ed6983e28ccb")
 		(property "Reference" "#PWR04"
-			(at 109.22 156.21 0)
+			(at 134.62 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3259,7 +3259,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 109.22 154.94 0)
+			(at 134.62 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3267,7 +3267,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 149.86 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3276,7 +3276,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 149.86 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3285,7 +3285,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 109.22 149.86 0)
+			(at 134.62 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3307,7 +3307,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST_LED")
-		(at 137.16 101.6 0)
+		(at 162.56 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -3316,7 +3316,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac267f2b-84b8-434b-8ee4-5c9eaa78e717")
 		(property "Reference" "SW1"
-			(at 137.16 91.44 0)
+			(at 162.56 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3324,7 +3324,7 @@
 			)
 		)
 		(property "Value" "SW_SPST_LED"
-			(at 137.16 93.98 0)
+			(at 162.56 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3332,7 +3332,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 93.98 0)
+			(at 162.56 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3341,7 +3341,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 107.95 0)
+			(at 162.56 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3350,7 +3350,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch with LED, generic"
-			(at 137.16 101.6 0)
+			(at 162.56 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
