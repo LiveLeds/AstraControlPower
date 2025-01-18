@@ -5,12 +5,8 @@ layout: home
 {% assign cacheBust = site.time | date:'?v=%s' %}
 ![Image]({{ "/images/AstraControlPower-3D_blender_top_angled.png" | absolute_url | append: cacheBust }}){: width="400" }
 
-4 Channel LED Driver with PWM dimming input. LED2001PHR is the driver IC, 
-it can support up to 4A, 3V - 18V at 850KHz switching frequency.
-Test plugs for each input and output.
-Optimized for good dimming performance.
+Power distribution board for input, output, switch, power converter and board screw terminal connectors.
 The board connects to [AstraControl](https://liveleds.github.io/AstraControl) ESP32-based control PCB uses WiFi with an external antenna and 5Mbps RS-485.
-Direct copper heat-sink PCB for LED diode [AstraBeamLED](https://liveleds.github.io/AstraBeamLED).
 
 [![CI](https://github.com/LiveLeds/AstraControlPower/actions/workflows/ci.yml/badge.svg)](https://github.com/LiveLeds/AstraControlPower/actions/workflows/ci.yml)
 
