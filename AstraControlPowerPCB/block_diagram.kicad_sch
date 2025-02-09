@@ -873,6 +873,118 @@
 				)
 			)
 		)
+		(symbol "LiveAstra:MountingHole_Pad"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_DIN965_Pad"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Extra Values" "Mouting Hole"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 0.762 0.762)
+						(bold yes)
+					)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Switch:SW_SPST_LED"
 			(pin_names
 				(offset 1.016) hide)
@@ -1800,6 +1912,28 @@
 		)
 		(uuid "cd3025e9-f7c5-4586-986c-c06eec26cee4")
 	)
+	(label "VIN"
+		(at 162.56 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "195e3c39-cfc6-421c-a269-fb377176b1c2")
+	)
+	(label "5V"
+		(at 162.56 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1fa5440c-cde5-451c-ab16-1ded094bf251")
+	)
 	(label "5V"
 		(at 190.5 121.92 0)
 		(fields_autoplaced yes)
@@ -1810,17 +1944,6 @@
 			(justify left bottom)
 		)
 		(uuid "2781584a-37ed-42c6-a635-8da835b5e25e")
-	)
-	(label "RS485+"
-		(at 139.7 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "39fd9ff5-2456-4a8c-ad4f-435b1b430baa")
 	)
 	(label "RS485-"
 		(at 111.76 55.88 0)
@@ -1855,8 +1978,8 @@
 		)
 		(uuid "58f82f08-910f-448c-9877-79f0b16f40a4")
 	)
-	(label "5V"
-		(at 162.56 55.88 0)
+	(label "RS485+"
+		(at 139.7 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1864,9 +1987,9 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "70615d6d-978a-4a21-a0f4-3a0beb69bd78")
+		(uuid "5f4cdb3f-0a90-4ce8-8198-1ee9a64a5e6c")
 	)
-	(label "VIN"
+	(label "5V"
 		(at 111.76 48.26 0)
 		(fields_autoplaced yes)
 		(effects
@@ -1875,7 +1998,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "7a43a642-8bed-4417-a866-988a439a59d0")
+		(uuid "619186d6-6ee1-4eeb-a18a-15039435b30d")
 	)
 	(label "5V"
 		(at 139.7 129.54 0)
@@ -1909,28 +2032,6 @@
 			(justify left bottom)
 		)
 		(uuid "9138f50c-1f8c-4b6a-b395-6a2ef0b84816")
-	)
-	(label "RS485-"
-		(at 139.7 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "945ec71f-6cc1-4304-a9ca-b200db5cb483")
-	)
-	(label "5V"
-		(at 111.76 45.72 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "98315803-0b64-4d04-95e0-eea47c53d669")
 	)
 	(label "RS485+"
 		(at 111.76 53.34 0)
@@ -1976,8 +2077,8 @@
 		)
 		(uuid "aa7525d6-4cc8-46ec-98d6-a72d453a7154")
 	)
-	(label "VIN"
-		(at 162.56 53.34 0)
+	(label "RS485-"
+		(at 139.7 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1985,7 +2086,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "e03001ba-ee5e-46bc-ae7c-9a9a69ac45db")
+		(uuid "ccd5bf59-0ec7-488d-b0e2-5d21f3ea3bde")
+	)
+	(label "VIN"
+		(at 111.76 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d44b57fe-5b1d-4169-bc83-00eb715ffb0c")
 	)
 	(label "VIN_SW"
 		(at 88.9 129.54 0)
@@ -2136,6 +2248,149 @@
 			(project ""
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:MountingHole_Pad")
+		(at 200.66 73.66 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21f4043b-a9ea-485e-82af-5e455d6e1124")
+		(property "Reference" "H2"
+			(at 203.2 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 200.66 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_Via"
+			(at 200.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 200.66 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "Mouting Hole"
+			(at 203.2 73.6599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "67989160-9937-41ef-ae95-cd702c49807a")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 231.14 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2375b92e-cad9-4ee5-9521-ac111dd1d269")
+		(property "Reference" "#PWR011"
+			(at 231.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 231.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 231.14 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c77fd465-b968-4bad-b5d1-c9ed77915423")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2649,6 +2904,83 @@
 		)
 	)
 	(symbol
+		(lib_id "LiveAstra:MountingHole_Pad")
+		(at 185.42 73.66 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62e14638-0183-4fce-a846-54a8e1c79460")
+		(property "Reference" "H1"
+			(at 187.96 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 185.42 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_Via"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "Mouting Hole"
+			(at 187.96 73.6599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "911037c1-b616-44d0-99ee-d2ecbb3206da")
+		)
+		(instances
+			(project ""
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 152.4 152.4 0)
 		(unit 1)
@@ -2898,6 +3230,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 185.42 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7900383f-0dd2-499d-b05e-25e3af5936b2")
+		(property "Reference" "#PWR03"
+			(at 185.42 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37f74977-f254-4a8f-a370-a51df89358ec")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 215.9 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84925210-6dd3-41a5-b544-f1e8f8398398")
+		(property "Reference" "#PWR010"
+			(at 215.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 215.9 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 215.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ede69a74-63ad-46c4-a4b6-bb12caafca8e")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LiveAstra:CN_SCREW_TERMINAL_WJ124_4P_15A")
 		(at 152.4 86.36 0)
 		(unit 1)
@@ -3120,6 +3584,83 @@
 			(project "AstraControlPower"
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
 					(reference "CN4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:MountingHole_Pad")
+		(at 215.9 73.66 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9edd284c-2f9f-4606-b8af-c47ec9c0aa8a")
+		(property "Reference" "H3"
+			(at 218.44 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 215.9 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_Via"
+			(at 215.9 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 215.9 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "Mouting Hole"
+			(at 218.44 73.6599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "9488cc89-5a30-4b8e-8cc1-a3067a0d382a")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -3374,6 +3915,149 @@
 			(project ""
 				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
 					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LiveAstra:MountingHole_Pad")
+		(at 231.14 73.66 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c0517d0b-28d6-457d-88d1-2d66909d3dab")
+		(property "Reference" "H4"
+			(at 233.68 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 231.14 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_Via"
+			(at 231.14 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 231.14 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Extra Values" "Mouting Hole"
+			(at 233.68 73.6599 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+					(bold yes)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "a1d8bcd3-f0ce-45b8-a897-46ab68e08e4f")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 200.66 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f53c9df2-654d-43d4-936c-686413b6be16")
+		(property "Reference" "#PWR08"
+			(at 200.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 200.66 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 200.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 200.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ced9201-d925-4cb9-8c14-81ba1d9ed317")
+		)
+		(instances
+			(project "AstraControlPower"
+				(path "/7280d034-363a-4c4e-8eb5-3b1e5eac524c/274ad830-1c1d-406b-a66e-b0330f7ac6d2"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
