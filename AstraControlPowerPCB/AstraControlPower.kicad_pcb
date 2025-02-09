@@ -12266,6 +12266,38 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5) keep_text_aligned)
 	)
+	(dimension
+		(type aligned)
+		(layer "User.8")
+		(uuid "cd87a112-ee7d-41e3-a5df-efde6abfb883")
+		(pts
+			(xy 176 71.25) (xy 144 71.25)
+		)
+		(height 2)
+		(gr_text "32 mm"
+			(at 157.5 67.15 0)
+			(layer "User.8")
+			(uuid "cd87a112-ee7d-41e3-a5df-efde6abfb883")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4) suppress_zeroes)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 2)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(segment
 		(start 164.3 130.25)
 		(end 164.33 130.22)
