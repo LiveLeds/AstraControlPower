@@ -1434,6 +1434,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "113e05e6-3fc6-42a7-a7e6-2be7e2609ed8")
 		)
 		(pad "2" thru_hole circle
@@ -1445,6 +1456,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a786c058-4119-4330-b8e0-b335fbd06e41")
 		)
 		(pad "3" thru_hole circle
@@ -1456,6 +1478,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "fce21f6d-919a-41bd-85c4-a34206c66c27")
 		)
 		(pad "4" thru_hole circle
@@ -1467,6 +1500,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "b21f9acf-294e-432c-9d9e-2763549f7df1")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_WJ3.81-LI-4P-124.step"
@@ -2840,6 +2884,17 @@
 			(net 7 "/Block Diagram/RS485-")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "f1a69369-09f1-4f84-9931-c5724f6e183c")
 		)
 		(pad "2" thru_hole circle
@@ -2851,6 +2906,17 @@
 			(net 6 "/Block Diagram/RS485+")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "68337495-7b06-46c9-9b46-684220a42236")
 		)
 		(pad "3" thru_hole circle
@@ -2862,6 +2928,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "25be726a-6085-4371-876d-081d74dd03d7")
 		)
 		(pad "4" thru_hole circle
@@ -2873,6 +2950,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "e249c57d-ca9c-4f3c-bc7b-7de71ce4243b")
 		)
 		(pad "5" thru_hole circle
@@ -2884,6 +2972,17 @@
 			(net 2 "/Block Diagram/VIN")
 			(pinfunction "Pin_5")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "aaea5318-d932-45ac-b731-9a9d70684bba")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_5P-P3.81_KF124-3.81-5P.step"
@@ -6359,6 +6458,17 @@
 			(net 2 "/Block Diagram/VIN")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "abf721bd-d3c5-4aa5-9f6d-575ba4b91e23")
 		)
 		(pad "2" thru_hole circle
@@ -6370,6 +6480,17 @@
 			(net 4 "/Block Diagram/VIN_SW")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "9754e1d8-28b2-4ee9-99ab-b5ad51c1e1f8")
 		)
 		(pad "3" thru_hole circle
@@ -6381,6 +6502,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "3c274ab7-7d5b-4fa6-9f42-2bd71f75fc4d")
 		)
 		(pad "4" thru_hole circle
@@ -6392,6 +6524,17 @@
 			(net 5 "/Block Diagram/LED")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "c180d5dc-58d0-4383-8ab5-7d627ad5f46c")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_WJ3.81-LI-4P-124.step"
@@ -8549,6 +8692,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "a6833f5e-616f-418d-ad67-e52834cf47a7")
 		)
 		(pad "2" thru_hole circle
@@ -8560,6 +8714,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "fcfb3179-a7ee-4dc1-8460-d0f0707ee086")
 		)
 		(pad "3" thru_hole circle
@@ -8571,6 +8736,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "e693e980-9591-4c56-95c4-355c1286f3c0")
 		)
 		(pad "4" thru_hole circle
@@ -8582,6 +8758,17 @@
 			(net 4 "/Block Diagram/VIN_SW")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "211596ee-a77f-4ffd-b4df-1a59fa5513db")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_WJ3.81-LI-4P-124.step"
@@ -9547,6 +9734,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "cd3283cd-96f0-42eb-bef1-f712a8548746")
 		)
 		(pad "2" thru_hole circle
@@ -9558,6 +9756,17 @@
 			(net 7 "/Block Diagram/RS485-")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "71b48f9e-74fd-4242-84b0-331a5856a2eb")
 		)
 		(pad "3" thru_hole circle
@@ -9569,6 +9778,17 @@
 			(net 6 "/Block Diagram/RS485+")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "c0689a2b-6068-4610-92f0-1260fc052f4a")
 		)
 		(pad "4" thru_hole circle
@@ -9580,6 +9800,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "02182b05-445d-4b6a-a761-0caed0e081e6")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_WJ3.81-LI-4P-124.step"
@@ -10654,6 +10885,17 @@
 			(net 2 "/Block Diagram/VIN")
 			(pinfunction "Pin_1")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "07883c38-00f7-4936-b0b2-9c1994159abc")
 		)
 		(pad "2" thru_hole circle
@@ -10665,6 +10907,17 @@
 			(net 3 "/Block Diagram/5V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "9a95505e-9081-41f5-9f02-dcb25121483b")
 		)
 		(pad "3" thru_hole circle
@@ -10676,6 +10929,17 @@
 			(net 1 "GND")
 			(pinfunction "Pin_3")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "529b9cbc-f4a1-4f81-b9c3-4f2951c61c80")
 		)
 		(pad "4" thru_hole circle
@@ -10687,6 +10951,17 @@
 			(net 6 "/Block Diagram/RS485+")
 			(pinfunction "Pin_4")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "50dce5a2-254b-4244-b63c-5e81e10df9e7")
 		)
 		(pad "5" thru_hole circle
@@ -10698,6 +10973,17 @@
 			(net 7 "/Block Diagram/RS485-")
 			(pinfunction "Pin_5")
 			(pintype "passive")
+			(teardrops
+				(best_length_ratio 0.5)
+				(max_length 1)
+				(best_width_ratio 1)
+				(max_width 2)
+				(curve_points 0)
+				(filter_ratio 0.9)
+				(enabled yes)
+				(allow_two_segments yes)
+				(prefer_zone_connections yes)
+			)
 			(uuid "654618fd-7d7f-4a15-8a6b-526fce89684f")
 		)
 		(model "${KIPRJMOD}/LiveAstraLibrary/LiveAstra.3dshapes/CONN-TH_5P-P3.81_KF124-3.81-5P.step"
@@ -14798,7 +15084,7 @@
 		(net 5)
 		(net_name "/Block Diagram/LED")
 		(layer "F.Cu")
-		(uuid "57d67367-1b41-46b1-bf32-b136fb7a7cf3")
+		(uuid "07d12ca8-0cfb-482d-a94f-b15488f0509d")
 		(name "$teardrop_padvia$")
 		(hatch full 0.1)
 		(priority 30000)
@@ -14820,16 +15106,13 @@
 		)
 		(polygon
 			(pts
-				(xy 165 138.4) (xy 164 138.4) (xy 163.9 139.25) (xy 164.5 139.751) (xy 165.1 139.25)
+				(xy 164 137.065) (xy 165 137.065) (xy 165.5 135.410297) (xy 164.5 134.964) (xy 163.5 135.410297)
 			)
 		)
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 164.997869 138.403427) (xy 165.001216 138.410333) (xy 165.09926 139.24371) (xy 165.096823 139.252327)
-				(xy 165.095139 139.254058) (xy 164.507499 139.744738) (xy 164.498952 139.74741) (xy 164.492501 139.744738)
-				(xy 163.90486 139.254058) (xy 163.900706 139.246125) (xy 163.900738 139.243719) (xy 163.998784 138.410332)
-				(xy 164.003154 138.402517) (xy 164.010404 138.4) (xy 164.989596 138.4)
+				(xy 164 137.065) (xy 165 137.065) (xy 165.5 135.410297) (xy 164.5 134.964) (xy 163.5 135.410297)
 			)
 		)
 	)
@@ -14837,10 +15120,10 @@
 		(net 2)
 		(net_name "/Block Diagram/VIN")
 		(layer "F.Cu")
-		(uuid "7dffa12b-b23e-40f2-b89c-a1b33494b68a")
+		(uuid "16e63b6a-c0bd-465a-a4f7-343c32bc5084")
 		(name "$teardrop_padvia$")
 		(hatch full 0.1)
-		(priority 30001)
+		(priority 30010)
 		(attr
 			(teardrop
 				(type padvia)
@@ -14865,10 +15148,343 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 167.084099 139.150968) (xy 167.690157 139.248417) (xy 167.697782 139.253114) (xy 167.7 139.259969)
-				(xy 167.7 140.24003) (xy 167.696573 140.248303) (xy 167.690157 140.251582) (xy 167.084109 140.34903)
-				(xy 167.075397 140.34696) (xy 167.073833 140.345603) (xy 166.979926 140.248303) (xy 166.50684 139.758123)
-				(xy 166.503562 139.749792) (xy 166.50684 139.741876) (xy 167.073835 139.154395) (xy 167.082044 139.150823)
+				(xy 167.7 140.25) (xy 167.7 139.25) (xy 167.078077 139.15) (xy 166.499 139.75) (xy 167.078077 140.35)
+			)
+		)
+	)
+	(zone
+		(net 5)
+		(net_name "/Block Diagram/LED")
+		(layer "F.Cu")
+		(uuid "1d23e3db-821b-43af-9c49-c32dbaf094c1")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30009)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 165 138.4) (xy 164 138.4) (xy 163.9 139.25) (xy 164.5 139.751) (xy 165.1 139.25)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 165 138.4) (xy 164 138.4) (xy 163.9 139.25) (xy 164.5 139.751) (xy 165.1 139.25)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/Block Diagram/RS485+")
+		(layer "F.Cu")
+		(uuid "20a02f56-c98f-45d4-8a78-72a5aad3eb7e")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30005)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 157.052381 104.772535) (xy 156.917465 104.637619) (xy 155.107765 105.16802) (xy 155.499293 106.190707)
+				(xy 156.521979 106.582234)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 157.052381 104.772535) (xy 156.917465 104.637619) (xy 155.107765 105.16802) (xy 155.499293 106.190707)
+				(xy 156.521979 106.582234)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/Block Diagram/RS485-")
+		(layer "F.Cu")
+		(uuid "4e6f4f0d-2f53-4592-adbd-933268425e4f")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30002)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 153.4 102.2846) (xy 153.4 102.4754) (xy 155.054703 103.38) (xy 155.501 102.38) (xy 155.054703 101.38)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 153.4 102.2846) (xy 153.4 102.4754) (xy 155.054703 103.38) (xy 155.501 102.38) (xy 155.054703 101.38)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/Block Diagram/RS485-")
+		(layer "F.Cu")
+		(uuid "5558a0c9-9d3c-4b90-a5e2-ce1921cb7b2e")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30006)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 162.947619 103.797465) (xy 163.082535 103.932381) (xy 164.892234 103.401979) (xy 164.500707 102.379293)
+				(xy 163.47802 101.987765)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 162.947619 103.797465) (xy 163.082535 103.932381) (xy 164.892234 103.401979) (xy 164.500707 102.379293)
+				(xy 163.47802 101.987765)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/Block Diagram/RS485+")
+		(layer "F.Cu")
+		(uuid "79947057-f5ee-477b-abd9-86dbe9f275af")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30007)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 154.082535 104.637619) (xy 153.947619 104.772535) (xy 154.47802 106.582234) (xy 155.500707 106.190707)
+				(xy 155.892234 105.16802)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 154.082535 104.637619) (xy 153.947619 104.772535) (xy 154.47802 106.582234) (xy 155.500707 106.190707)
+				(xy 155.892234 105.16802)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/Block Diagram/RS485+")
+		(layer "F.Cu")
+		(uuid "887f0591-779a-4597-9457-bc58204de392")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30004)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 153.947619 90.262465) (xy 154.082535 90.397381) (xy 155.892234 89.866979) (xy 155.500707 88.844293)
+				(xy 154.47802 88.452765)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 153.947619 90.262465) (xy 154.082535 90.397381) (xy 155.892234 89.866979) (xy 155.500707 88.844293)
+				(xy 154.47802 88.452765)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/Block Diagram/RS485-")
+		(layer "F.Cu")
+		(uuid "967b9de1-179d-4672-89de-be1d1f25b836")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30003)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 156.917465 103.932381) (xy 157.052381 103.797465) (xy 156.521979 101.987765) (xy 155.499293 102.379293)
+				(xy 155.107765 103.401979)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 156.917465 103.932381) (xy 157.052381 103.797465) (xy 156.521979 101.987765) (xy 155.499293 102.379293)
+				(xy 155.107765 103.401979)
+			)
+		)
+	)
+	(zone
+		(net 7)
+		(net_name "/Block Diagram/RS485-")
+		(layer "F.Cu")
+		(uuid "cf479b8a-bcea-422a-a4fa-8da190a905ab")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30001)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 153.4 92.5596) (xy 153.4 92.7504) (xy 155.054703 93.655) (xy 155.501 92.655) (xy 155.054703 91.655)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 153.4 92.5596) (xy 153.4 92.7504) (xy 155.054703 93.655) (xy 155.501 92.655) (xy 155.054703 91.655)
+			)
+		)
+	)
+	(zone
+		(net 6)
+		(net_name "/Block Diagram/RS485+")
+		(layer "F.Cu")
+		(uuid "d2b17d66-d230-4820-963e-ca80174d6654")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30008)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 163.082535 104.637619) (xy 162.947619 104.772535) (xy 163.47802 106.582234) (xy 164.500707 106.190707)
+				(xy 164.892234 105.16802)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 163.082535 104.637619) (xy 162.947619 104.772535) (xy 163.47802 106.582234) (xy 164.500707 106.190707)
+				(xy 164.892234 105.16802)
 			)
 		)
 	)
